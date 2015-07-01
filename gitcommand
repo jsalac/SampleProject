@@ -5,4 +5,4 @@ w- to write or save
 q! - to quit
 git branch - to see branches
 git status- to view status of files
-
+git checkout -b - creating of branch direct located
